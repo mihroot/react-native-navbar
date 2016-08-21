@@ -22,7 +22,6 @@ module.exports = {
     bottom: 0,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: 'grey',
   },
   navBarButtonContainer: {
     flexDirection: 'row',
